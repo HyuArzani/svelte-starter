@@ -6,7 +6,7 @@
         { link: '#', name: 'Home' },
         { link: '#', name: 'Blog' },
     ];
-    test error
+    test error a
 </script>
 
 <Nav {menuItems} />
