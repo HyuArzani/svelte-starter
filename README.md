@@ -4,7 +4,7 @@
 ![Svelte + TailwindCSS + Storybook Starter Template](starter-template.jpg)
 
 
-> starter from: [Svelte + TailwindCSS + Storybook](https://https://github.com/jerriclynsjohn/svelte-storybook-tailwind)
+> starter from: [Svelte + TailwindCSS + Storybook](https://github.com/jerriclynsjohn/svelte-storybook-tailwind)
 
 ```bash
 // Quickstart
