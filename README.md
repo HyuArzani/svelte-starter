@@ -12,6 +12,7 @@
 npx degit HyuArzani/svelte-starter my-svelte-project
 cd my-svelte-project
 
+git init // avoid husky error
 yarn
 yarn dev
 yarn stories
